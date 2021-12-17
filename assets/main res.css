@@ -135,6 +135,11 @@ a:focus {
   margin-left: 1rem;
   font-size: 1.5rem;
 }
+.navsecond {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
 .photo {
   max-width: 20rem;
   float: right;
