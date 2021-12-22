@@ -145,7 +145,7 @@ a:focus {
 }
 .photo {
   border: white solid;
-  border-radius: 50% 20% / 10% 40%;
+  border-radius: 128px;
   max-width: 20rem;
   float: right;
   margin-left: 1.5rem;
