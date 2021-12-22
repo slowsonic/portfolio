@@ -59,6 +59,8 @@ footer p {
 }
 
 main img {
+  border: white solid;
+  border-radius: 30px;
   width: 100%;
   max-width: 400px;
 }
@@ -106,6 +108,7 @@ a:focus {
 .bio {
   background: linear-gradient(180deg, rgba(2, 0, 36, 1) 1%, rgba(9, 9, 121, 1) 38%, rgba(0, 69, 255, 1) 100%);
   border: white solid 1rem;
+  border-radius: 30px;
   display: table;
   margin-bottom: 20px;
   margin-top: 20px;
@@ -141,6 +144,8 @@ a:focus {
   flex-wrap: wrap;
 }
 .photo {
+  border: white solid;
+  border-radius: 50% 20% / 10% 40%;
   max-width: 20rem;
   float: right;
   margin-left: 1.5rem;
@@ -148,6 +153,7 @@ a:focus {
 .projects {
   background: linear-gradient(180deg, rgba(2, 0, 36, 1) 1%, rgba(9, 9, 121, 1) 38%, rgba(0, 69, 255, 1) 100%);
   border: 0.5rem white solid;
+  border-radius: 30px;
   display: grid;
   flex: 1;
   flex-wrap: wrap;
